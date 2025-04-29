@@ -1,0 +1,69 @@
+{
+  "siderbar": [
+    {
+      "link": "/instructor/instructor-dashboard",
+      "text": "Dashboard",
+      "icon": "feather-home"
+    },
+    {
+      "link": "/instructor/instructor-profile",
+      "text": "My Profile",
+      "icon": "feather-user"
+    },
+    {
+      "link": "/instructor/instructor-enrolled-course",
+      "text": "Enrolled Courses",
+      "icon": "feather-book-open"
+    },
+    {
+      "link": "/instructor/instructor-reviews",
+      "text": "Reviews",
+      "icon": "feather-star"
+    },
+    {
+      "link": "/instructor/quiz-library",
+      "text": "Quiz Library of System",
+      "icon": "feather-help-circle"
+    },
+    {
+      "link": "/instructor/category",
+      "text": "Category of System",
+      "icon": "feather-folder"
+    },
+    {
+      "link": "/instructor/instructor-personal-courses",
+      "text": "Manage Courses",
+      "icon": "feather-monitor"
+    },
+    {
+      "link": "/instructor/instructor-announcements",
+      "text": "Announcements",
+      "icon": "feather-volume-2"
+    },
+    {
+      "link": "/instructor/quiz-library",
+      "text": "Quiz Library of Team",
+      "icon": "feather-message-square"
+    },
+    {
+      "link": "/instructor/category",
+      "text": "Category of Team",
+      "icon": "feather-folder"
+    },
+    {
+      "link": "/instructor/instructor-assignments",
+      "text": "Classes",
+      "icon": "feather-list"
+    },
+    {
+      "link": "/instructor/instructor-settings",
+      "text": "Settings",
+      "icon": "feather-settings"
+    },
+    {
+      "link": "/",
+      "text": "Logout",
+      "icon": "feather-log-out"
+    }
+  ]
+}

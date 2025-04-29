@@ -1,0 +1,30 @@
+export interface QuestionProps {
+    setNewOptions: (options: string[]) => void;
+    setContent: (content: string) => void;
+    setAnswer: (answer: string) => void;
+    setQuestion: (question: string) => void;
+    setQuestionImage: (questionImage: string) => void;
+    setCategory: (category: string) => void;
+    setSubCategory: (subCategory: string) => void;
+    setCorrectFb: (correctFb: string) => void;
+    setCorrectUrl: (correctUrl: string) => void;
+    setIncorrectUrl: (incorrectUrl: string) => void;
+    setIncorrectFb: (incorrectFb: string) => void;
+    setAnswerMatching: (answerMatching: string[]) => void;
+    setSelectedOption: (selectedOption: string) => void;
+    newOptions: string[];
+    answer: string;
+    answerMatching: string[];
+    selectedOption: string;
+    question: string;
+    questionImage: string;
+    category: string;
+    subCategory: string;
+    content: string;
+    correctFb: string;
+    correctUrl: string;
+    incorrectUrl: string;
+    incorrectFb: string;
+    status: string;
+    setStatus: (status: string) => void;
+  }
