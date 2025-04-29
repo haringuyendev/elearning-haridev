@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-import CourseData from "../../../../e-learning/data/course-details/courseData.json";
+import CourseData from "@/constants/courseData.json";
 import { useSelector } from "react-redux";
 import { RootState } from "@/redux/store";
 

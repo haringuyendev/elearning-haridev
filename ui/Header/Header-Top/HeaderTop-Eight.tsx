@@ -1,7 +1,8 @@
+//ts-ignore
 import Image from "next/image";
 import Link from "next/link";
 
-import HeaderTopData from "../../../../e-learning/data/headerTop.json";
+import HeaderTopData from "@/constants/headerTop.json";
 import { useRouter } from "next/router";
 import { HeaderProps } from "../interface";
 import { useDispatch, useSelector } from "react-redux";
